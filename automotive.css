@@ -1,0 +1,149 @@
+body{
+    background-image: url(./R.jfif);
+    background-size: cover;
+    overflow-x: hidden;
+   
+}
+.nav{
+    display: inline;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+a.hihi:hover{
+    display: inline;
+    color: aqua;
+    font-size: 25px;
+    border: 3px solid;
+    
+    margin-left: -10px;
+    margin-right: -20px; 
+    
+}
+a{
+    font: optional;color: antiquewhite;
+    text-decoration: none;
+    border: 1px solid cornsilk;
+    border-radius: 6px;
+    text-shadow: 5px 5px 5px rgb(186, 189, 24)
+}
+#navsec{
+    background-image: url(./OIP\ \(1\).jfif);
+    width: 100% ;
+    position: fixed;
+    border-top: 10px solid crimson;
+    border-bottom: 10px solid rgb(2, 5, 3);
+    
+   
+}
+#row{
+    background-image: url(./wp2543975.jpg);
+    background-color: khaki;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: space-evenly ;
+   align-items: center;
+   border: 25px solid;
+   margin-top: 50px;
+}
+.col{
+    background-color:rgb(139, 136, 136);
+    width : 150px;
+    height: 70px;
+    border: 10px solid ghostwhite;
+   
+}
+.gal{
+    width: 180px;
+    height: 90px;
+}
+#row2{
+    background-color: rgb(136, 136, 71);
+   border: 10px solid;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+ margin-left: -10px;
+
+    
+}
+.col2{
+    background-color: aqua;
+    border-radius: 40px;
+    border: 15px solid;
+    width: 170px;
+    height: 200px;
+    margin: 10px;
+    
+}
+.im{
+    border-radius: 25px;
+    margin-left: 0PX;
+}
+.ptag{
+    font: optional;color: rgb(14, 8, 0);
+    text-align: center;
+    font-size: large;
+    text-shadow: 1px 1px 1px green;
+    
+    
+}
+#sec{   
+    color: aliceblue;
+}
+ #sec1{
+    position: sticky;
+    top: 70px;
+ }
+ html{
+    scroll-behavior: smooth;
+ }
+ p{
+    font-style: italic;
+ }
+ #ref{
+    width: 200px;
+    height: 300px;
+ }
+ #fo{
+    color:black;
+    text-align: center;
+    
+ }
+ #fodv{
+    width: 400px;
+    height: 140px;
+    background-color: rgb(157, 214, 214);
+    border: 5px solid gold;
+    padding-bottom: 30px;
+    
+ }
+ h3{
+    color: rgb(243, 244, 248);
+    text-shadow: 5px 5px 5px rgb(168, 48, 54);
+    text-decoration: underline;
+
+ }
+ .hihi{
+    color: rgb(65, 158, 65);
+ }
+ .idid{
+    color: rgb(246, 252, 246);
+    ;
+ }
+ a.idid:hover{
+    color: rgb(133, 212, 108);
+    font-size: 30px;
+}
+a:hover{
+    display: inline;
+    color: aqua;
+    font-size: 25px;
+}
+label{
+    color: rgb(83, 12, 119);
+    
+}
